@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjan Gaikwad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjangaikwad31-nsg&label=Profile%20views&color=0e75b6&style=flat" alt="niranjangaikwad31-nsg" /> </p>
 
